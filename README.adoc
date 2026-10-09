@@ -1,4 +1,6 @@
 == Connect to Neo4j with GraalVM languages
+
+NOTE: This is an experimental Neo4j Labs project and not part of Neo4j's supported product lineup. See the link:./LABS_DISCLAIMER.txt[Neo4j Labs disclaimer].
 Connect to Neo4j from different programming languages using GraalVM.
 
 Setup steps (basic GraalVM and Neo4j install):
